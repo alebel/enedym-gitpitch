@@ -1,13 +1,21 @@
-# Flux
+#HSLIDE
 
-An application architecture for React
+Press **F** key to go <span style="color:cyan">fullscreen.</span>
 
----
+#HSLIDE
 
-### Flux Design
+> Here's how to install the Enedym Pipelining Application
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+```
+git clone
+cd enedym-pipeline
+bash enedymUp.sh
+```
 
----
+#HSLIDE
+
+> Here's how to stop the Enedym Pipelining Application
+
+```
+bash enedymDown.sh
+```
